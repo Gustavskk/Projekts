@@ -21,6 +21,6 @@
 Programma izvadīs tabulu ar mēnešiem, iztērētajiem līdzekļiem un pāri palikušajiem līdzekļiem. Pēdējās divas rindiņas parādīs kopējo iztērēto naudu gadā un pāri palikušo naudu gadā.
 
 ## Papildu Informācija
-
+**links uz projektu** https://github.com/Gustavskk/Projekts.git
 
 **Autors:** Gustavs Kārlis Kancēvičs | **Kontakti:** Gustavs-Karlis.Kancevics@edu.rtu.lv | 
