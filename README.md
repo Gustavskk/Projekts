@@ -22,7 +22,7 @@ Programma izvadīs tabulu ar mēnešiem, iztērētajiem līdzekļiem un pāri pa
 
 ## Papildu Informācija
 
-[**Izmēģināt projektu**]([Projekts]https://github.com/GustavsKK/Projekts) | [**Kontaktēties ar Autoru**](Gustavs-Karlis.Kancevics@edu.rtu.lv) |
+[**Izmēģināt projektu**]([Projekts]https://github.com/GustavsKK/Projekts)
 
 ---
 
